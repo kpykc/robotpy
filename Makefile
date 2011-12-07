@@ -1,0 +1,3 @@
+#
+all:
+	python robot.py

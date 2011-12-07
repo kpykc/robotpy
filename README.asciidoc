@@ -1,0 +1,13 @@
+= robotpy
+
+== Overview
+
+Old rewrite of matlab code from ASL ETHZ lectures for differential drive robot.
+
+== Links
+
+Introduction to Autonomous Mobile Robots (Intelligent Robotics and Autonomous Agents series) [Hardcover]
+Roland Siegwart (Author), Illah R. Nourbakhsh (Author) 
+
+- http://www.amazon.com/Introduction-Autonomous-Mobile-Intelligent-Robotics/dp/026219502X[]
+
